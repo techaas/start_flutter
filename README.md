@@ -1,6 +1,8 @@
 # start_flutter
 
-A new Flutter project.
+Flutterで簡単なモバイルアプリを作ってみるサンプルです.
+
+[TECHaas - Flutter でモバイルアプリ](https://www.techaas.net/post/start-flutter/) で紹介していますので、そちらもどうぞ。
 
 ## Getting Started
 
